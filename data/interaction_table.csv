@@ -1,0 +1,19 @@
+Interaction Type,Age,Class,Gender,Race/Ethnicity,Religion,Sexual Orientation
+Adjectives/Negative,X,X,X,X,X,X
+Adjectives/Neutral,X,X,X,X,X,X
+Adjectives: Competence/Negative,X,X,X,X,X,X
+Adjectives: Competence/Neutral,X,X,X,X,X,X
+Adjectives: Physical Appearance/Negative,X,X,X,X,,X
+Adjectives: Physical Appearance/Neutral,X,X,X,X,,X
+Adjectives: Outsider/Negative,,,,X,X,
+Adjectives: Outsider/Neutral,,,,X,X,
+Adjectives: Gendered/Negative,X,,X,X,,X
+Adjectives: Gendered/Neutral,X,,X,X,,X
+Adjectives: Racial/Ethnic/Negative,,,X,X,X,
+Adjectives: Racial/Ethnic/Neutral,,,X,X,X,
+Stereotypical Associations: Racial/Ethnic ,,,X,X,X,X
+Stereotypical Associations: Class,,X,,X,X,
+Stereotypical Associations: Religious,,,,,X,
+Stereotypical Associations: Ableism,X,,X,,,X
+Stereotypical Associations: Occupations,,X,X,X,,X
+Stereotypical Associations: Violence,,X,,X,X,
